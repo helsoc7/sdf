@@ -1,6 +1,6 @@
 # Implementierung des Beispiels
 
-![Untitled](Implementierung%20des%20Beispiels%20c1fcc9141030457bb9475fd93817eada/Untitled.png)
+![Untitled](train.png)
 
 - Was sind die Objekte? Zug, Triebwagen, Waggon, Diesel-Lok, E-Lok, Güterwaggon, Personenwaggon, Speisewagen, Abteil
 - Das sind die Klassen, setze diese jetzt in Beziehung
